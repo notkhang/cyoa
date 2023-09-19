@@ -1,0 +1,18 @@
+body {
+  margin: auto;
+  width: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+    color: Black;
+  }
+
+a {
+  color: #5d2782;
+}
+a:visited {
+  color: #5d2782;
+}
+  table, th, td {
+  border:1px solid black;
+}
+
